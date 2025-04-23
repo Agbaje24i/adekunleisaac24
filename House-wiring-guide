@@ -1,0 +1,28 @@
+# House Wiring Guide
+
+This project provides a visual and written guide for a basic residential house wiring layout. It is based on real-world experience with Nigerian electrical systems and follows standard safety and technical procedures.
+
+## ⚡ Key Features
+- A complete visual diagram of a standard single-phase wiring layout.
+- Summary of tools and materials used in real installations.
+- Step-by-step notes on setup and troubleshooting.
+
+## 🧰 Tools & Materials
+- Cables (1.5mm, 2.5mm, 4mm)
+- Conduits & clips
+- Sockets, switches, bulbs
+- Distribution board (DB)
+- Tester, pliers, screwdrivers
+
+## 📘 What You'll Learn
+- Wiring structure and flow
+- Safety procedures in installation
+- Best practices for maintenance
+
+## 📎 Files Included
+- `house_wiring_diagram.png` – the visual layout
+- `installation_notes.docx` – written steps and materials
+
+---
+
+Made by [Agbaje Isaac Adekunle](mailto:adekunleisaac1989@gmail.com)
